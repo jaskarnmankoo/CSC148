@@ -8,7 +8,7 @@ A project done in pairs that uses Breadth-First Search (BFS) and Depth-First Sea
 
 * [Grid Peg Solitaire](#execution-of-grid-peg-solitaire-solver)
 * [Sudoku](#execution-of-sudoku-solver)
-* [Word Ladder](#execution-of-world-ladder-solver)
+* [Word Ladder](#execution-of-word-ladder-solver)
 
 ### Execution of Grid Peg Solitaire Solver
 
