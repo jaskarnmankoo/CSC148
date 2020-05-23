@@ -8,12 +8,12 @@ A project done in pairs that uses Breadth-First Search (BFS) and Depth-First Sea
 
 ## Execution of Grid Peg Solitaire Solver
 
-![Grid Peg Solitaire](PuzzleSolver/images/peg.png)
+![Grid Peg Solitaire](images/peg.png)
 
 ## Execution of Sudoku Solver
 
-![Sudoku](PuzzleSolver/images/sudoku.png)
+![Sudoku](images/sudoku.png)
 
 ## Execution of Word Ladder Solver
 
-![Word Ladder](PuzzleSolver/images/word.png)
+![Word Ladder](images/word.png)
