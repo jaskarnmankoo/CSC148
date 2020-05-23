@@ -6,10 +6,6 @@ This repository contains a project from CSC148: Introduction to Computer Science
 
 A project done in pairs that uses Breadth-First Search (BFS) and Depth-First Search (DFS) to solve various puzzles.
 
-* [Grid Peg Solitaire](#Grid)
-* [Sudoku](#Sudoku)
-* [Word Ladder](#Word)
-
 ### Execution of Grid Peg Solitaire Solver
 
 ![Grid Peg Solitaire](PuzzleSolver/images/peg.png)
