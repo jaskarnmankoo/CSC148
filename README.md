@@ -1,4 +1,4 @@
-# CSC148
+# CSC148: Introduction to Computer Science
 
 This repository contains a project from CSC148: Introduction to Computer Science course taken at University of Toronto Mississauga.
 
