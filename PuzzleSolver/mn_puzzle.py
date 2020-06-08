@@ -1,7 +1,6 @@
 from puzzle import Puzzle
 from copy import deepcopy
 
-
 class MNPuzzle(Puzzle):
     """
     An nxm puzzle, like the 15-puzzle, which may be solved, unsolved,

@@ -1,6 +1,5 @@
 from puzzle import Puzzle
 
-
 class SudokuPuzzle(Puzzle):
     """
     A sudoku puzzle that may be solved, unsolved, or even unsolvable.

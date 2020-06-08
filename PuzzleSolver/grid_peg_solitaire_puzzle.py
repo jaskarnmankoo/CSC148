@@ -1,7 +1,6 @@
 from puzzle import Puzzle
 from copy import deepcopy
 
-
 class GridPegSolitairePuzzle(Puzzle):
     """
     Snapshot of peg solitaire on a rectangular grid. May be solved,

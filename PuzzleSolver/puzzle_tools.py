@@ -11,7 +11,6 @@ from collections import deque
 import sys
 sys.setrecursionlimit(10**6)
 
-
 def depth_first_solve(puzzle):
     """
     Return a path from PuzzleNode(puzzle) to a PuzzleNode containing
